@@ -14,7 +14,6 @@ cv-interactivo/
 ├── contacto.html        → Formulario de contacto
 ├── css/style.css        → Estilos globales (variables, layout, responsivo)
 ├── js/theme.js           → Modo claro/oscuro (persistente con localStorage)
-├── js/validacion.js      → Validación del formulario de contacto
 └── assets/images/        → Imágenes del sitio
 ```
 
